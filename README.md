@@ -1,5 +1,5 @@
 
-# Xylophone 🎹 inspired by AppBrewery
+# Xylophone 🎹 Inspired by AppBrewery
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 ## What I have create
